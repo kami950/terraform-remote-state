@@ -1,0 +1,6 @@
+.idea
+.terraform
+*.terraform.*
+.DS_Store
+*.tfplan
+*.tfstate*
